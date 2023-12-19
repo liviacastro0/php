@@ -1,0 +1,25 @@
+h1 {
+    background-color:pink;
+
+}
+
+h2 {
+    background-color: rgb(113, 142, 223);
+
+}
+
+p {
+    background-color: rgb(104, 197, 104);
+
+}
+
+#p2{
+    background-color: rgb(138, 222, 228);
+
+}
+
+.stilo{
+    background-color: rgb(52, 141, 163);
+    height: 100px;
+    width: 1500px;
+}
