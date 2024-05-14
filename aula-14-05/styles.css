@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: rgba(33, 104, 45, 0.801);
+  
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    border-radius: 36px;
+    padding: 7px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    text-align: center;
+}
+
+pre{
+    background-color: blanchedalmond;
+}
+
+
+
