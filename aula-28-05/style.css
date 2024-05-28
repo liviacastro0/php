@@ -1,0 +1,28 @@
+*{margin: 2px;}
+
+body{
+    background-color: rgba(175, 78, 135, 0.801);
+  
+}
+
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(175, 78, 135);
+    border-radius: 36px;
+    padding: 7px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(233, 179, 221);
+
+    font-size: small;
+}
+
+pre{
+    /* border: solid, 3px, rgba(175, 78, 135, 0.801); */
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+
